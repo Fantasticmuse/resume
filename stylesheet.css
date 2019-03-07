@@ -1,0 +1,127 @@
+
+.header {
+text-align: center;
+font-size: 50px;
+font-family: Helvetica, Arial, sans-serif;
+background-color: #eea060;
+color: #6E8686;
+margin:auto;
+}
+
+.header p{
+  margin:auto;
+  text-align: left;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: Helvetica, Arial, sans-serif;
+  margin-top: 10px;
+  padding: 10px;
+  width: 600px;
+  border-style: dotted;
+  border-width: 5px;
+  border-color: #019999;
+  color: #A94D00;
+  position: relative;
+  bottom: 70px;
+}
+
+.profile {
+  margin:auto;
+  text-align: left;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: Helvetica, Arial, sans-serif;
+  margin-top: 10px;
+  padding: 10px;
+  width: 600px;
+  border-style: dotted;
+  border-width: 5px;
+  border-color: #019999;
+  color: #A94D00;
+  position: relative;
+  bottom: 70px;
+}
+
+
+
+.contactlist {
+  text-align: center;
+  font-family: Helvetica, Arial, sans-serif;
+  color: #019999;
+  position: relative;
+  bottom: 100px;
+}
+
+.contactlist img{
+  position: relative;
+}
+
+.contactlist hr{
+  border-style: dotted none none none;
+  border-width: 5px;
+  width: 33%;
+  color: #019999;
+}
+
+.contactlist a{
+  text-align: center;
+  font-family: Helvetica, Arial, sans-serif;
+  color: #019999;
+  text-decoration: none;
+}
+
+.skillslist {
+  text-align: left;
+  font-size: 50px;
+  font-family: Helvetica, Arial, sans-serif;
+  color: #6E8686;
+  margin-left: 180px;
+  position: relative;
+  bottom: 50px;
+  left: 20px;
+}
+
+.skillslist img{
+height: 300px;
+margin-left: auto;
+margin-right: auto;
+padding-top: 30px;
+
+}
+
+.skillslist table{
+  font-size: 15px;
+  font-family: Helvetica, Arial, sans-serif;
+  text-align: left;
+}
+
+.Experience {
+  text-align: left;
+  font-size: 15px;
+  font-family: Helvetica, Arial, sans-serif;
+  margin-left: 200px;
+  margin-right: 200px;
+  padding: 5px 0;
+}
+
+.Experience h1{
+  text-align: center;
+  color: #eea060;
+  font-size: 50px;
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: normal;
+}
+
+.Experience h2{
+  color: #019999;
+  position: relative;
+  top: 20px;
+  font-family: Helvetica, Arial, sans-serif;
+
+}
+
+.Experience h3{
+  color: #019999;
+  font-family: Helvetica, Arial, sans-serif;
+
+}
